@@ -1,0 +1,24 @@
+question: find X and Y for below sequence:
+	10,1,8,3,6,5,4,7,X,Y
+
+step 1: start
+
+step 2: declered ceriable A,B
+	A = 10,B = 1
+
+step 3: initialize condition
+	while A < 2 
+
+step 4: write A and then B
+	print A
+	print B
+
+step 5: change the variable value
+	A = A - 2
+	B = B + 2
+
+step 6: repet step 2 till full fill the condition
+
+step 7: finished
+	Exit
+
